@@ -1,0 +1,17 @@
+K:\Script Editor\deneme2\KutuphaneOtomasyonu1\KutuphaneOtomasyonu1\bin\Debug\KutuphaneOtomasyonu1.exe.config
+K:\Script Editor\deneme2\KutuphaneOtomasyonu1\KutuphaneOtomasyonu1\bin\Debug\KutuphaneOtomasyonu1.exe
+K:\Script Editor\deneme2\KutuphaneOtomasyonu1\KutuphaneOtomasyonu1\bin\Debug\KutuphaneOtomasyonu1.pdb
+K:\Script Editor\deneme2\KutuphaneOtomasyonu1\KutuphaneOtomasyonu1\obj\Debug\KutuphaneOtomasyonu1.csproj.AssemblyReference.cache
+K:\Script Editor\deneme2\KutuphaneOtomasyonu1\KutuphaneOtomasyonu1\obj\Debug\KutuphaneOtomasyonu1.AnaSayfaForm.resources
+K:\Script Editor\deneme2\KutuphaneOtomasyonu1\KutuphaneOtomasyonu1\obj\Debug\KutuphaneOtomasyonu1.Properties.Resources.resources
+K:\Script Editor\deneme2\KutuphaneOtomasyonu1\KutuphaneOtomasyonu1\obj\Debug\KutuphaneOtomasyonu1.UyeEklemeForm.resources
+K:\Script Editor\deneme2\KutuphaneOtomasyonu1\KutuphaneOtomasyonu1\obj\Debug\KutuphaneOtomasyonu1.csproj.GenerateResource.cache
+K:\Script Editor\deneme2\KutuphaneOtomasyonu1\KutuphaneOtomasyonu1\obj\Debug\KutuphaneOtomasyonu1.csproj.CoreCompileInputs.cache
+K:\Script Editor\deneme2\KutuphaneOtomasyonu1\KutuphaneOtomasyonu1\obj\Debug\KutuphaneOtomasyonu1.exe
+K:\Script Editor\deneme2\KutuphaneOtomasyonu1\KutuphaneOtomasyonu1\obj\Debug\KutuphaneOtomasyonu1.pdb
+K:\Script Editor\deneme2\KutuphaneOtomasyonu1\KutuphaneOtomasyonu1\obj\Debug\KutuphaneOtomasyonu1.UyeListelemeForm.resources
+K:\Script Editor\deneme2\KutuphaneOtomasyonu1\KutuphaneOtomasyonu1\obj\Debug\KutuphaneOtomasyonu1.KitapEkleForm.resources
+K:\Script Editor\deneme2\KutuphaneOtomasyonu1\KutuphaneOtomasyonu1\obj\Debug\KutuphaneOtomasyonu1.KitapListelemeForm.resources
+K:\Script Editor\deneme2\KutuphaneOtomasyonu1\KutuphaneOtomasyonu1\obj\Debug\KutuphaneOtomasyonu1.OduncKitapVermeForm.resources
+K:\Script Editor\deneme2\KutuphaneOtomasyonu1\KutuphaneOtomasyonu1\obj\Debug\KutuphaneOtomasyonu1.OduncKitapListelemeForm.resources
+K:\Script Editor\deneme2\KutuphaneOtomasyonu1\KutuphaneOtomasyonu1\obj\Debug\KutuphaneOtomasyonu1.OduncKitapForm.resources
